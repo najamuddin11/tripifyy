@@ -1,0 +1,22 @@
+.getPost-container {
+    padding-top: 50px;
+}
+.feed-get-text1{
+  box-shadow: 0px 0px 2px 0.1px #c0c0c0;
+  border-radius:8px;
+  padding: 10px 15px !important;
+  margin: 7px 0px;
+  display: block;/* or inline-block */
+text-overflow: ellipsis;
+word-wrap: break-word;
+white-space: initial;
+overflow: hidden;
+max-height: 4.8em;
+line-height: 1.8em;
+width: 143vh;
+}
+.feed-badge1{
+  position: relative;
+  top:-10px;
+  border-radius: 20% !important;
+}
